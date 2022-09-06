@@ -825,8 +825,8 @@ function love.load()
 
 
 	--Create file the apk need to run properly
-	my_data = lf.read("readme.txt")
-	lf.write("readme.txt", my_data)
+	my_data = lf.read("README.md")
+	lf.write("README.md", my_data)
 
 
 	find_and_create_default_data("interface","")
