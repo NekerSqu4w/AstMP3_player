@@ -879,7 +879,6 @@ function love.load()
 	settings.render_mode = false
 	settings.render_mode_timer = 5
 
-	--[[
 	lang_list = {
 		{
 			name="Français",
@@ -894,8 +893,7 @@ function love.load()
 			id = "ge"
 		}
 	}
-	]]
-	--lang = load_lang(settings.lang_selected)
+	lang = load_lang(settings.lang_selected)
 	--palettes = lf.load("data/color.lua")()   --Have to work on
 	------------------------------
 
