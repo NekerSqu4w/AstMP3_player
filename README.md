@@ -1,9 +1,9 @@
 # AstMP3 player
 
-FAQ:
-[Sur mon serveur Discord](https://discord.gg/xCrKVbMzJw)
-
 **Englich:**
+> FAQ:
+> [Sur mon serveur Discord](https://discord.gg/xCrKVbMzJw)
+
 > *How to start the apk:*
 > Download the file, open the zip file, click on 'AstMP3_player-main', click on 'apk', and then 'AstMP3 launcher.ink'
 
@@ -14,9 +14,12 @@ FAQ:
 
 > There is also the possibility of coding either even a visualizer easily!
 > The application can be used to render for overlay audio effects like in this video:
-> https://www.youtube.com/watch?v=iaZYKMMnqts
+> [https://www.youtube.com/watch?v=iaZYKMMnqts](Watch the video)
 
 **French:**
+> FAQ:
+> [On my Discord server](https://discord.gg/xCrKVbMzJw)
+
 > *Comment démarrer l'apk :*
 > Téléchargez le fichier, ouvrez le fichier zip, cliquez sur 'AstMP3_player-main', cliquez sur 'apk', puis sur 'AstMP3 launcher.ink'
 
@@ -27,4 +30,4 @@ FAQ:
 
 > Il y a aussi la possibilité de coder soit même un visualiseur facilement !
 > L'application peux être utiliser pour faire des rendus pour incrustation d'effects audio comme dans cette vidéo:
-> https://www.youtube.com/watch?v=iaZYKMMnqts
+> [https://www.youtube.com/watch?v=iaZYKMMnqts](Regardé la vidéo)
