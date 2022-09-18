@@ -2,7 +2,7 @@
 
 **Englich:**
 > FAQ:
-> [Sur mon serveur Discord](https://discord.gg/xCrKVbMzJw)
+> [On my Discord server](https://discord.gg/xCrKVbMzJw)
 
 > *How to start the apk:*
 > Download the file, open the zip file, click on 'AstMP3_player-main', click on 'apk', and then 'AstMP3 launcher.ink'
@@ -18,7 +18,7 @@
 
 **French:**
 > FAQ:
-> [On my Discord server](https://discord.gg/xCrKVbMzJw)
+> [Sur mon serveur Discord](https://discord.gg/xCrKVbMzJw)
 
 > *Comment démarrer l'apk :*
 > Téléchargez le fichier, ouvrez le fichier zip, cliquez sur 'AstMP3_player-main', cliquez sur 'apk', puis sur 'AstMP3 launcher.ink'
