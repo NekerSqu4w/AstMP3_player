@@ -1,5 +1,8 @@
 # AstMP3 player
- 
+
+FAQ:
+[Sur mon serveur Discord](https://discord.gg/xCrKVbMzJw)
+
 **Englich:**
 > *How to start the apk:*
 > Download the file, open the zip file, click on 'AstMP3_player-main', click on 'apk', and then 'AstMP3 launcher.ink'
